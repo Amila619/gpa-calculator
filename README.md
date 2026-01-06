@@ -1,16 +1,21 @@
-# GPA Calculator
-This project is a GPA calculator for university students. It helps users compute their Grade Point Average (GPA) based on their course grades and credits.
+# bun-react-template
 
-## Features
+To install dependencies:
 
-- Input course grades and credit values
-- Automatic GPA calculation
-- User-friendly interface
+```bash
+bun install
+```
 
-## Contributing
+To start a development server:
 
-Contributions are welcome! Please open issues or submit pull requests for improvements.
+```bash
+bun dev
+```
 
-## License
+To run for production:
 
-This project is licensed under the MIT License.
+```bash
+bun start
+```
+
+This project was created using `bun init` in bun v1.3.5. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
